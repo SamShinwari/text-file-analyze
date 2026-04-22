@@ -1,6 +1,6 @@
 # text-file-analyze
 Week 1 NLP Project - Text Analyzer using Python
-# 👋 Hi, I'm Sami Uddin
+# 👋 Hi, I'm Sami Uddin Shinwari
 
 ## 🚀 Skills
 - Python
