@@ -1,15 +1,21 @@
-# text-file-analyze
-Week 1 NLP Project - Text Analyzer using Python
-# 👋 Hi, I'm Sami Uddin Shinwari
+# 📊 Text File Analyzer (NLP Project - Week 1)
 
-## 🚀 Skills
+## 🚀 Overview
+This project analyzes a text file and provides:
+- Word count
+- Sentence count
+- Character count
+- Most frequent words
+
+## 🛠️ Technologies
 - Python
-- NLP
-- Machine Learning
+- Regex
+- Collections
 
-## 📂 Projects
-- Text File Analyzer (NLP)
+## 📂 Dataset
+Sample text file included in `/data/sample.txt`
 
-## 🎯 Goals
-- Become AI Engineer
-- Contribute to open source
+## ▶️ How to Run
+
+```bash
+python analyzer.py
